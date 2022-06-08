@@ -1,7 +1,8 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
 
 /* Styles for the body */
 
@@ -12,7 +13,7 @@ body {
 }
 
 h1 {color:indianred;}
-h1 {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+h1 {font-family:'Raleway', sans-serif;}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
